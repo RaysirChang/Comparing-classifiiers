@@ -1,4 +1,4 @@
-# The-best-classifiier
+# Comparing classifiiers
 To find the best classifier by compared below classifiers:  
 - K Nearest Neighbor(KNN)  
 - Decision Tree  
